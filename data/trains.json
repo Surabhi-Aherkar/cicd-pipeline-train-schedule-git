@@ -14,12 +14,6 @@
 					"status": "ON-TIME",
 					"arrival": "1:00pm",
 					"departure": "1:10pm"
-				},
-				{
-					"station": "TestTest",
-					"status": "ON-TIME",
-					"arrival": "1:00pm",
-					"departure": "1:10pm"
 				}
 			]
 		},
